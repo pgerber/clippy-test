@@ -5,6 +5,3 @@ authors = ["Peter Gerber <peter@arbitrary.ch>"]
 
 [dependencies]
 clippy = { version = "*", path = "../rust-clippy" }
-
-# [replace]
-# "clippy_lints:0.0.121" = { path = "../rust-clippy/clippy_lints" }
